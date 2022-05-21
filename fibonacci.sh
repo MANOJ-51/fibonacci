@@ -1,7 +1,7 @@
 #!/bin/bash
 
 read -p "Enter the value of n:" n
-
+read -p "Enter the value of n:" p
 a=0
 b=1
 
